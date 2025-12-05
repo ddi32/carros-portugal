@@ -1,0 +1,34 @@
+# Recomendador de Carros Portugal 🚗
+
+Uma aplicação web para comparar e encontrar carros no mercado português.
+
+## ✨ Funcionalidades
+
+- **Modo Comparar**: Compare 2-3 modelos lado a lado
+- **Modo Encontrar**: Encontre carros baseado nos seus critérios
+- **Filtros Avançados**: Preço, tipo, combustível, extras, etc.
+- **Sistema de Scoring**: Recomendações personalizadas por perfil
+- **Interface Responsiva**: Funciona em desktop e mobile
+
+## 🚀 Como Usar
+
+### Opção 1: Usar Online
+1. Acesse: `https://[seu-usuario].github.io/carros-portugal`
+2. Use os filtros para encontrar carros
+3. Ou compare modelos específicos
+
+### Opção 2: Executar Localmente
+```bash
+# 1. Clonar repositório
+git clone https://github.com/seu-usuario/carros-portugal.git
+
+# 2. Navegar para a pasta
+cd carros-portugal
+
+# 3. Iniciar backend (se necessário)
+cd backend
+pip install -r requirements.txt
+python api.py
+
+# 4. Abrir frontend
+# Abra index.html no navegador
