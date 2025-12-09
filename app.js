@@ -1,6 +1,6 @@
 // Configurações da API
 // ALTERE ESTA URL para o seu backend quando publicar
-const API_URL = 'https://seu-backend.railway.app';
+const API_URL = "https://carros-portugal-api.onrender.com";
 // Para produção: 'https://seu-backend.railway.app' ou 'https://seu-backend.onrender.com'
 
 // Estado global
